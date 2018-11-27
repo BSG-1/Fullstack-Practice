@@ -4,8 +4,8 @@ import Create from './components/Create';
 import Index from './components/Index';
 import logo from './logo.svg';
 import './App.css';
-import '../node_modules/bootstrap/dist/css/boostrap.min.css';
 
+//App
 class App extends Component {
   render() {
     return (
